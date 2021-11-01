@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdul-Farraj4
-- 👀 I’m interested in roller coasters and comuter science.
+- 👀 I’m interested in roller coasters and computer science.
 - 🌱 I’m currently learning cybersecurity and comp sci
 - 💞️ I’m looking to collaborate on some begginer projects for now.
 - 📫 How to reach me- email at affar867@gmail.com
