@@ -2,7 +2,7 @@
 - I am a student at the University of North Carolina at Charlotte
 - 👀 I’m interested in roller coasters and computer science.
 - 🌱 I’m currently learning cybersecurity and comp sci
-- 💞️ I’m looking to collaborate on some begginer projects for now.
+- 💞️ I’m looking to collaborate on some beginner projects for now.
 - 📫 How to reach me- email at affar867@gmail.com
 
 <!---
