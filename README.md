@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Abdul-Farraj4
+- 👋 How are ya! I’m @Abdul-Farraj4
+- I am a student at the University of North Carolina at Charlotte
 - 👀 I’m interested in roller coasters and computer science.
 - 🌱 I’m currently learning cybersecurity and comp sci
 - 💞️ I’m looking to collaborate on some begginer projects for now.
